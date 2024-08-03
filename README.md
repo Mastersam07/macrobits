@@ -1,6 +1,6 @@
-# macrobits
+# Macrobits
 
-A new Flutter project.
+Exploring Dart macros.
 
 ## Getting Started
 
